@@ -45,6 +45,7 @@ FEATURES = [
      "min": 1, "max": 50, "default": 5, "step": 1},
     {"col": "flat_type", "type": "categorical", "label": "Flat type"},
     {"col": "town", "type": "categorical", "label": "Town"},
+    {"col": "flat_model", "type": "categorical", "label": "Flat_model"},
 
     # --- EXAMPLE (uncomment after enabling it in clean_data above) ---
     # {"col": "remaining_lease_years", "type": "numeric", "label": "Remaining lease (years)",
